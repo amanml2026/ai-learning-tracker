@@ -1,0 +1,6 @@
+{
+  "name": "AI Learning Tracker",
+  "description": "A modern responsive learning dashboard with course management, DSA tracking, note taking, and an AI Study Coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
