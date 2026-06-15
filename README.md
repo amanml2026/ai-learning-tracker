@@ -11,6 +11,33 @@ An intelligent learning tracker powered by **Google Gemini AI**. Track your cour
 - 📊 **Dashboard** - Visual overview of your learning journey
 - 🎯 **Progress Tracking** - Monitor your improvement over time
 
+## 📸 Screenshots
+
+### Dashboard Overview
+Your learning hub at a glance with real-time stats, active courses, DSA progress, and study streaks.
+
+![Dashboard](screenshots/01-dashboard.png)
+
+### Course Syllabus Manager
+Manage all your enrolled courses from multiple platforms (Udemy, Coursera, etc.) with progress tracking and completion percentages.
+
+![Course Manager](screenshots/02-course-manager.png)
+
+### LeetCode & DSA Registry
+Track all your solved algorithmic problems organized by difficulty level (Easy, Medium, Hard) with detailed problem information.
+
+![DSA Registry](screenshots/03-dsa-registry.png)
+
+### AI Study Coach (Powered by Gemini)
+Get personalized study plans and strategies powered by Google Gemini AI. Declare your learning milestones and get AI-generated curriculum tracks.
+
+![AI Coach](screenshots/04-ai-coach.png)
+
+### Theoretical Notebook
+Create and manage custom markdown cheatsheets, syntax diagrams, interview prep notes, and coding architecture references all in one place.
+
+![Notebook](screenshots/05-notebook.png)
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19 + TypeScript + Vite
